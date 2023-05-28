@@ -46,6 +46,12 @@ defaultTheme = "auto"
   Text = "Suggest Changes"
   appendFilePath = true
 
+[[menu.main]]
+identifier = "privacy"
+name = "Privacy"
+url = "privacy"
+weight = 1
+
 [markup.highlight]
 codeFences = true
 guessSyntax = true
