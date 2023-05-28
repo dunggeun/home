@@ -48,7 +48,7 @@ defaultTheme = "auto"
 
 [[menu.main]]
 identifier = "privacy"
-name = "Privacy"
+name = "Privacy Policy"
 url = "privacy"
 weight = 1
 
