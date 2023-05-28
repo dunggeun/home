@@ -1,0 +1,61 @@
+theme = "PaperMod"
+languageCode = "ko-KR"
+title = "둥근"
+baseURL = "https://team.geundung.dev"
+defaultContentLanguage = "ko"
+
+[params]
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+defaultTheme = "auto"
+
+  [params.profileMode]
+  enabled = true
+  title = "둥근"
+  subtitle = "성장의, 성장에 의한, 성장을 위한"
+  imageUrl = "/logo-512x512.svg"
+  imageTitle = "logo"
+  imageWidth = 120
+  imageHeight = 120
+
+    [[params.profileMode.buttons]]
+    name = "소개"
+    url = "introduce"
+
+    [[params.profileMode.buttons]]
+    name = "프로젝트"
+    url = "projects"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/geundung.dev"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/dunggeun"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:support@geundung.dev"
+
+  [params.assets]
+  disableHLJS = true
+
+  [params.editPost]
+  URL = "https://github.com/dunggeun/home/tree/master/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "nord"
+
+[languages.ko.params]
+weight = 1
+url = "/"
+
+[languages.en.params]
+weight = 1
+url = "/en"
