@@ -26,6 +26,18 @@
                 href="https://team.geundung.dev/en/introduce/"
                 />
   </url><url>
+    <loc>https://team.geundung.dev/en/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://team.geundung.dev/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://team.geundung.dev/en/privacy/"
+                />
+  </url><url>
     <loc>https://team.geundung.dev/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
