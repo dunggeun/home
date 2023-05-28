@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>둥근</title>
+    <link>https://team.geundung.dev/</link>
+    <description>Recent content on 둥근</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language><atom:link href="https://team.geundung.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduce</title>
+      <link>https://team.geundung.dev/introduce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://team.geundung.dev/introduce/</guid>
+      <description>반가워요! 👋 둥근은 단 한 명으로 구성된 개발팀이에요.
+둥근 팀은 스스로 학습하고 성장하는 것 이라는 한 가지 원칙만을 따르고 있고, 이를 실천하며 여러 사용자에게 가치를 제공하는 것을 목표로 하고 있어요.
+이 가치가 비록 사소하고 작은 가치일지라도 말이죠.
+프로젝트 Up 지원: support@geundung.dev</description>
+    </item>
+    
+    <item>
+      <title>Up</title>
+      <link>https://team.geundung.dev/projects/up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://team.geundung.dev/projects/up/</guid>
+      <description>⭐️ 우리 모두의 성장을 위해, UP
+소개 모두의 성장을 위해, 업(Up)!
+Up 은 여러분들의 할 일, 목표, 습관으로 만들고 싶은 것 등을 기록하고 이를 꾸준히 수행할 수 있도록 동기부여에 도움을 주는 서비스예요.
+업(Up) 챌린지에 도전하고, 나를 키워보아요!
+스토어 Android: Google Play Store iOS: Apple App Store 가이드 1. 기본 여러분이 해야할 일이나, 습관으로 만들고 싶은 일이 곧 임무예요.
+Up 에서는 여러개의 임무를 생성할 수 있고, 이를 통해 경험치를 획득할 수 있어요.</description>
+    </item>
+    
+  </channel>
+</rss>
